@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arrow_escape_multiple_mod.myapp",
+      "sha256_cert_fingerprints":
+        ["5B:7B:BC:71:3F:EF:23:4D:3D:3D:1B:A8:C6:ED:F0:32:EF:C9:71:E7:BB:F9:D6:1E:F0:4C:38:B8:51:25:E1:3C"]
+    }
+  }
+]
